@@ -11,3 +11,7 @@
 ```Python
 print("Hello World")
 ```
+
+- [x] Create personal repo
+- [x] Write up markdown file on personal repo
+- [ ] Complete markdown tutorial
